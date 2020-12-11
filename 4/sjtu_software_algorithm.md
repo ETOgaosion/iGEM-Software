@@ -14,7 +14,7 @@ Greedy Equivalence Search(Meek,1997)为其博士论文内容
  </tr>
  <tr>
     <td style="width:300px;" ><img style="width:100%;" 
-    src="GES.png"></td>
+    src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/GES.png"></td>
     <td>
     <font style="font-size:13px">1.Input一个训练集，返回一个最优模型</font><br>
     <font style="font-size:13px">2.从空图(只有顶点无边)开始搜索</font><br>
@@ -32,7 +32,7 @@ Greedy Equivalence Search(Meek,1997)为其博士论文内容
  </tr>
  <tr>
     <td style="width:60%;" ><img style="width:100%;" 
-    src="FES.png"></td>
+    src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/FES.png"></td>
     <td>
     <font style="font-size:13px">1.Input一个训练集，返回一个最优模型</font><br>
     <font style="font-size:13px">2.求贝叶斯得分S最大值，先设为0</font><br>
@@ -43,7 +43,7 @@ Greedy Equivalence Search(Meek,1997)为其博士论文内容
  <tr>
     <td style="width:60%;" ><a href="https://www.quora.com/What-is-the-difference-between-neighbor-and-adjacency-in-OSPF">
     <font style="font-size:13px">Reference:Quora.com</font><br>
-    <img style="width:100%;" src="neVSad.jpg"></a>
+    <img style="width:100%;" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/neVSad.jpg"></a>
     </td>
     <td>
     <font style="font-size:13px">ne-neighbour;ad-adjacent表面上都是相邻，事实上意思不同，在数据库中常用，前者表示只相邻但不共享全部数据，而后者也称"full state"共享private数据</font><br>
@@ -51,7 +51,7 @@ Greedy Equivalence Search(Meek,1997)为其博士论文内容
  </tr>
  <tr>
     <td style="width:60%;" >
-    <img style="width:100%;" src="FES.png">
+    <img style="width:100%;" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/FES.png">
     </td>
     <td>
     <font style="font-size:13px">1.能够和u共享全部数据的点集，和与v相邻的点集的交，赋给N</font><br>
@@ -67,7 +67,7 @@ Greedy Equivalence Search(Meek,1997)为其博士论文内容
  </tr>
  <tr>
     <td style="width:60%;" >
-    <img style="width:100%;" src="FES.png">
+    <img style="width:100%;" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/FES.png">
     </td>
     <td>
     <font style="font-size:13px">1.若寻找到了更大的贝叶斯得分，则将新点与新边加入原图，由宽度优先搜索确定边的方向</font><br>
@@ -80,7 +80,7 @@ Greedy Equivalence Search(Meek,1997)为其博士论文内容
  </tr>
  <tr>
     <td style="width:60%" >
-    <img style="width:100%;" src="BES.png">
+    <img style="width:100%;" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/BES.png">
     </td>
     <td>
     <font style="font-size:13px">1.不同之处在于u选取v的邻居和相邻点，而C集的选取变为N的子集</font><br>
@@ -93,7 +93,7 @@ Greedy Equivalence Search(Meek,1997)为其博士论文内容
  </tr>
  <tr>
     <td style="width:60%" >
-    <img style="width:100%;" src="BES.png">
+    <img style="width:100%;" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/BES.png">
     </td>
     <td>
     <font style="font-size:13px">1.在贝叶斯得分增加时新增一次判断，当u在v的neighbour中，宽度优先搜索时需要考虑v；否则不需要</font><br>
@@ -109,7 +109,7 @@ Greedy Equivalence Search(Meek,1997)为其博士论文内容
 <table>
    <tr>
       <td style="width:60%">
-      <img style="width:100%;" src="LexBFS.png">
+      <img style="width:100%;" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/LexBFS.png">
       </td>
       <td>
       <font style="font-size:13px">1.输入：无向图(V,E)；输出：排序完成的图</font><br>
@@ -124,7 +124,7 @@ Greedy Equivalence Search(Meek,1997)为其博士论文内容
 <table>
    <tr>
       <td style="width:60%">
-      <img style="width:100%;" src="PC.png">
+      <img style="width:100%;" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/PC.png">
       </td>
       <td>
       <font style="font-size:13px">1.输入：对变量V的独立数据库；输出：V上的随机模型G</font><br>
@@ -144,7 +144,7 @@ FCI因果推断算法(Spirtes, Meek, and Richardson,1999)；
 <table>
    <tr>
       <td style="width:50%">
-      <img style="width:100%" src="FCIplus.png">
+      <img style="width:100%" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/FCIplus.png">
       </td>
       <td>
       <center><font style="font-size:13px;text-decoration:line-through;">看不懂的别看了</center></font>
@@ -152,10 +152,10 @@ FCI因果推断算法(Spirtes, Meek, and Richardson,1999)；
    </tr>
    <tr>
       <td style="width:50%">
-      <img style="width:100%" src="FCI1.png">
+      <img style="width:100%" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/FCI1.png">
       </td>
       <td>
-      <img style="width:100%" src="FCI2.png">
+      <img style="width:100%" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/FCI2.png">
       </td>
    </tr>
    <tr>
@@ -163,7 +163,7 @@ FCI因果推断算法(Spirtes, Meek, and Richardson,1999)；
       <center><font style="font-size:16px;color:#5a57ff"><b>这是文献上更详细的FCI算法</b></center></font><br>
       </td>
       <td>
-      <img style="width:100%" src="FCI3.png">
+      <img style="width:100%" src="https://github.com/ETOgaosion/iGEM-Software/tree/main/4/FCI3.png">
       </td>
    </tr>
 </table>
