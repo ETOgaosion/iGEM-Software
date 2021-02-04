@@ -6,8 +6,10 @@ Now it's winter holiday!
 
 You can also view this week's work at 
 
-[this website: Requests Library](http://whatcanyousee.gearhostpreview.com/iGEM-Software/Requests.html)
+[this website: Numpy Library](http://whatcanyousee.gearhostpreview.com/iGEM-Software/numpy.html)
 
 and
 
-[this website: Scrapy Library](http://whatcanyousee.gearhostpreview.com/iGEM-Software/scrapy.html)
+[this website: Scipy Library](http://whatcanyousee.gearhostpreview.com/iGEM-Software/scipy.html)
+
+the latter one is for short because of its difficulty.
