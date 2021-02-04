@@ -1,6 +1,4 @@
-This is Gao Sion in UCAS iGEM-software team;
-
-He uses this as a convenient open knowledge storage.
+This is Gao Sion in UCAS iGEM-software team, who uses this as a convenient open knowledge storage.
 
 Now it's winter holiday!
 
