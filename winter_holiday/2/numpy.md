@@ -31,26 +31,26 @@ ndarray.data|包含数组实际元素的缓冲区。
 示例：
 
 ```python
->>>import numpy as np
->>>a = np.arange(15).reshape(3, 5)#简便写法，0~14分成3行5列
->>>a
+>>> import numpy as np
+>>> a = np.arange(15).reshape(3, 5)#简便写法，0~14分成3行5列
+>>> a
 array([[ 0,  1,  2,  3,  4],
        [ 5,  6,  7,  8,  9],
        [10, 11, 12, 13, 14]])
->>>a.shape
+>>> a.shape
 (3, 5)
->>>a.ndim
+>>> a.ndim
 2
->>>a.dtype.name
+>>> a.dtype.name
 'int64'
->>>a.itemsize
+>>> a.itemsize
 8
->>>a.size
+>>> a.size
 15
->>>type(a)
+>>> type(a)
 <class 'numpy.ndarray'>
->>>b = np.array([6, 7, 8])#低级做法，列表值赋给array对象
->>>b
+>>> b = np.array([6, 7, 8])#低级做法，列表值赋给array对象
+>>> b
 array([6, 7, 8])
 ```
 
